@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 // Importa el logo desde la carpeta assets
 import logoImage from "../assets/lumina_corps_logo.webp";
 // Importa los estilos para el logo
-import "../components/styles/logo.css";
+import "./styles/Logo.css";
 
 const navLinks = [
   { name: "Inicio", href: "#home" },
